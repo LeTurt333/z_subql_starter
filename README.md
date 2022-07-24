@@ -1,4 +1,5 @@
 # SubQuery Starter Project for Cosmos Networks
+t
 
 This is a starter project for Indexing Cosmos Networks. It includes a simple blockhandler and an event handler.
 
